@@ -1,6 +1,4 @@
 ---
-layout: post
-status: publish
 published: true
 title: The Mentalist - 시즌3에서 마무리.
 categories:

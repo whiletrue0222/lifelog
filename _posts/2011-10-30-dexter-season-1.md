@@ -1,6 +1,4 @@
 ---
-layout: post
-status: publish
 published: true
 title: Dexter Season 1
 categories:

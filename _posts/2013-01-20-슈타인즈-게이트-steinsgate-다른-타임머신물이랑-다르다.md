@@ -1,6 +1,4 @@
 ---
-layout: post
-status: publish
 published: true
 title: 슈타인즈 게이트 (Steins;Gate) - 다른 타임머신물이랑 다르다.
 categories:

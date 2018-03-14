@@ -1,6 +1,4 @@
 ---
-layout: post
-status: publish
 published: true
 title: Candy Crush Saga
 categories:

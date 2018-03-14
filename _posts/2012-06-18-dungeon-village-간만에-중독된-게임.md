@@ -1,6 +1,4 @@
 ---
-layout: post
-status: publish
 published: true
 title: 'Dungeon Village : 간만에 중독된 게임'
 categories:
@@ -9,7 +7,7 @@ comments:
 - author: ohyecloudy
   author_email: ohyecloudy@gmail.com
   author_url: http://ohyecloudy.com
-  content: '오~ 이거 한번 해봐야겠네.'
+  content: 오~ 이거 한번 해봐야겠네.
   date: 2012-06-18 09:51:00 +0900
   date_gmt: 2012-06-18 00:51:00 +0900
   id: 13

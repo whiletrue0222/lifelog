@@ -1,6 +1,4 @@
 ---
-layout: post
-status: publish
 published: true
 title: Lie to Me Season 1~3
 categories:

@@ -1,6 +1,4 @@
 ---
-layout: post
-status: publish
 published: true
 title: 'Game of Thrones Season 1: 와...'
 categories:

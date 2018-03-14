@@ -1,6 +1,4 @@
 ---
-layout: post
-status: publish
 published: true
 title: House M.D. Season 1
 categories:

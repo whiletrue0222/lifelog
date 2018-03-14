@@ -1,6 +1,4 @@
 ---
-layout: post
-status: publish
 published: true
 title: Tiny Heroes (Simutronics Corp) - IPhone Game
 categories:
