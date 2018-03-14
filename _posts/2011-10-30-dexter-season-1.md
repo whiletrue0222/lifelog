@@ -7,7 +7,8 @@ tags:
 - 덱스터
 - 덱스터시즌1
 - dexter
-permalink: archives/43
+redirect_from:
+- archives/43
 wpbackup:
   author:
     display_name: whiletrue

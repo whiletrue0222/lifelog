@@ -5,7 +5,8 @@ categories:
 - 영화
 tags:
 - X-MEN
-permalink: archives/41
+redirect_from:
+- archives/41
 wpbackup:
   author:
     display_name: whiletrue

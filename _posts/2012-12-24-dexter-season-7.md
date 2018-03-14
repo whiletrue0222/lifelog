@@ -6,7 +6,8 @@ categories:
 tags:
 - dexter
 - dexter7
-permalink: archives/117
+redirect_from:
+- archives/117
 wpbackup:
   author:
     display_name: whiletrue

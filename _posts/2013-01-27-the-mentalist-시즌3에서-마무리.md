@@ -3,7 +3,8 @@ published: true
 title: The Mentalist - 시즌3에서 마무리.
 categories:
 - 영화
-permalink: archives/163
+redirect_from:
+- archives/163
 wpbackup:
   author:
     display_name: whiletrue

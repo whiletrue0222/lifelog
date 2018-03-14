@@ -27,7 +27,8 @@ comments:
   date: 2012-09-25 09:09:19 +0900
   date_gmt: 2012-09-25 00:09:19 +0900
   id: 15
-permalink: archives/102
+redirect_from:
+- archives/102
 wpbackup:
   author:
     display_name: whiletrue

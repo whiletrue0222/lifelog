@@ -3,7 +3,8 @@ published: true
 title: Candy Crush Saga
 categories:
 - 게임
-permalink: archives/181
+redirect_from:
+- archives/181
 wpbackup:
   author:
     display_name: whiletrue

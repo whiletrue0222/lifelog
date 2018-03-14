@@ -16,7 +16,8 @@ comments:
   date: 2012-01-07 01:04:45 +0900
   date_gmt: 2012-01-06 16:04:45 +0900
   id: 2
-permalink: archives/47
+redirect_from:
+- archives/47
 wpbackup:
   author:
     display_name: whiletrue

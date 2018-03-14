@@ -7,7 +7,8 @@ tags:
 - 하우스
 - House.M.D.
 - 마약
-permalink: archives/36
+redirect_from:
+- archives/36
 wpbackup:
   author:
     display_name: whiletrue

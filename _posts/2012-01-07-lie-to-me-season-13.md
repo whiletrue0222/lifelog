@@ -14,7 +14,8 @@ comments:
   date: 2013-01-27 01:18:20 +0900
   date_gmt: 2013-01-26 16:18:20 +0900
   id: 16
-permalink: archives/66
+redirect_from:
+- archives/66
 wpbackup:
   author:
     display_name: whiletrue

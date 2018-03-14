@@ -7,7 +7,8 @@ tags:
 - WindowsLiveWriter
 - 태그왜공백안되는거냐
 - 이글루스기본에디터불편하다
-permalink: archives/55
+redirect_from:
+- archives/55
 wpbackup:
   author:
     display_name: whiletrue
