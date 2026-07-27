@@ -43,7 +43,7 @@ tags:
 <iframe width="640" height="360" src="https://www.youtube.com/embed/SX_ViT4Ra7k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [cover]: https://lh3.googleusercontent.com/isD1ULFz9pDd7Ms_uzzyXePnDXk2u0_QYc2wr_F3V5rf9DIJyLUPGSi24H7c0Vj4JRavwrg3NCm8DsNfJY9TscKRmxvC2-hjkJnGGBNz9zcnefXEaBTJs4_3VSxI-K0I0doJxPWt8sxtWCidzqd6RnhxOmYvV7fovZYYOHRiho3ORAw_h8c5xGswPlZjiGDIMtgSH9o38UGLKUx_PoD1N6yObMkEXb-lRl2W2XGrGIbuloPfDrDucFNLn3FPIYf8lag5dLhFG2LeKrD1-7sESgMODBxvq5WOAuf8KVqk7nhE62UI604B-B4rjVkUaTJ4TRB3cwzA7g7qXWOmruG4pLKdumKUdGSBBTdn3Q_2EswyyfiXYCglVsH9x2eKEq09nOH_YrFGkhhg7Gc4JtLAvmbcp2x7NiSrEVtJfRoqrJs14i3Sj5ck1ZFWbh7ZKBJCF7Wug4DpKpUi-FuP_t9P9fM0h62b4c2HEZ8Lhp93zsOrfc-CObFVGc1fwe4VFlW5NBE7UpuYoLXx7FJWQvfDb7hSG9CsOoOZPcXWkA_563tFv9-Xr17gA_V9zQgFiYlb2IvJsC2OTcWVi8MJTC-06vvlGMi1af1WQmTj5PL9=w530-h780-no
-[교열걸]: {{ site.baseurl }}{% post_url 2018-03-15-교열걸 %}
+[교열걸]: {% post_url 2018-03-15-교열걸 %}
 
 [이시하라 사토미]: https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%8B%9C%ED%95%98%EB%9D%BC_%EC%82%AC%ED%86%A0%EB%AF%B8
 

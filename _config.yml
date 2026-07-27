@@ -30,6 +30,7 @@ plugins:
   - jekyll-gist
   - jemoji
   - jekyll-redirect-from
+  - jekyll-github-metadata
 
 kramdown:
   input: GFM
@@ -37,6 +38,15 @@ kramdown:
 
 permalink: :year/:title
 repository: whiletrue0222/lifelog
+timezone: Asia/Seoul
+
+# 클래식 GitHub Pages 빌드가 테마 레이아웃을 자동으로 씌워줬기 때문에 포스트 front matter
+# 에는 layout 이 없다. 순정 Jekyll 은 주입해주지 않으므로 여기서 기본값을 지정한다.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -45,3 +55,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - SECURITY.md
+  - mise.toml
+  - vendor
